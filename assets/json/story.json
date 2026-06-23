@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Today's Story",
+    "story": "Once upon a time, a clever little robot named Pip lost his shiny blue gear in the Whispering Woods.",
+    "question": "What colour was Pip's lost gear?",
+    "correctAnswer": "Blue",
+    "options": ["Red", "Green", "Blue", "Yellow"]
+  },
+  {
+    "title": "The Lost Star",
+    "story": "Luna the rabbit found a shining yellow star near the river.",
+    "question": "What colour was the star?",
+    "correctAnswer": "Yellow",
+    "options": ["Blue", "Yellow", "Green", "Red"]
+  },
+  {
+    "title": "Tom's Balloon",
+    "story": "Tom bought a big red balloon from the fair.",
+    "question": "What colour was Tom's balloon?",
+    "correctAnswer": "Red",
+    "options": ["Yellow", "Blue", "Red", "Green"]
+  },
+  {
+    "title": "Magic Tree",
+    "story": "A magical green tree grew in the middle of the village.",
+    "question": "What colour was the tree?",
+    "correctAnswer": "Green",
+    "options": ["Green", "Red", "Blue", "Yellow"]
+  }
+]
